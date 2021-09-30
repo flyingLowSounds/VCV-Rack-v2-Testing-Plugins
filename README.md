@@ -16,6 +16,6 @@ This is [SteveRussell33's](https://github.com/SteveRussell33) [v1 update](https:
 [Southpole](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/southpole-2.0.0-mac.vcvplugin)
 
 ## Southpole-Parasites
-This is [netboy3's](https://github.com/netboy3) [v1 update](https://github.com/netboy3/southpole-vcvrack-plugins/tree/v1-parasites) of two Mutable Instruments modules with the third party Parasites firmware. Very cool.
+This is [netboy3's](https://github.com/netboy3) [v1 update](https://github.com/netboy3/southpole-vcvrack-plugins/tree/v1-parasites) of two Southpole versions of Audible's clones of Mutable Instruments modules with the third party Parasites firmware. Very cool.
 
 [Southpole Parasites firmware](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/Southpole-parasites-2.0.0-mac.vcvplugin)
