@@ -15,6 +15,11 @@ I had to remove Muxlicer and Mex for now, as they were generating errors when tr
 
 [Befaco](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/Befaco-2.0.0-mac.vcvplugin)
 
+## Circlefade
+Just four modules from [max-circlefade](https://github.com/max-circlefade/Circlefade), but they are nice ones.
+
+[Circlefade](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/Circlefade-2.0.0-mac.vcvplugin)
+
 ## Southpole
 This is [SteveRussell33's](https://github.com/SteveRussell33) [v1 update](https://github.com/SteveRussell33/southpole-vcvrack) of [gbrandt1's](https://github.com/gbrandt1/southpole-vcvrack) Southpole plugin which is a reskin (and resize) of Audible Instruments clones of Mutable Instruments. Plus Southpole adds several really cool new modules like a Euclidean sequencer, sample and hold x4, etc.
 
