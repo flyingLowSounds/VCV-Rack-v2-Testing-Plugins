@@ -9,6 +9,11 @@ These have all been built against VCV Rack Community Edition 2.git.b04e4117
 Download the .vcvplugin file you want to try out. Drop it into the /Documents/Rack2/plugins folder and then open VCV Rack CE v2.
 You should see the modules in your modules browser.
 
+## 21kHz
+This is [netboy3's v1 update of jakehuryn's plugin](https://github.com/netboy3/21kHz-rack-plugins) which includes the venerable Palm Loop oscillator!
+
+[21kHz](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/21kHz-2.0.0-mac.vcvplugin)
+
 ## Befaco
 This is [hemmer's](https://github.com/hemmer) [dev branch](https://github.com/hemmer/Befaco) of the Befaco plugin including some cool new additions (like Morphader!).
 I had to remove Muxlicer and Mex for now, as they were generating errors when trying to build for v2.
