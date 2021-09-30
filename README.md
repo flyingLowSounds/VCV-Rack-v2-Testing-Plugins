@@ -4,6 +4,11 @@ Mac builds of VCV Rack v2 plugins
 Here are the macOS builds for some plugins compatible with the new version (v2) of VCV Rack CE.
 These have all been built against VCV Rack Community Edition 2.git.b04e4117
 
+## How
+
+Download the .vcvplugin file you want to try out. Drop it into the /Documents/Rack2/plugins folder and then open VCV Rack CE v2.
+You should see the modules in your modules browser.
+
 ## Befaco
 This is [hemmer's](https://github.com/hemmer) [dev branch](https://github.com/hemmer/Befaco) of the Befaco plugin including some cool new additions (like Morphader!).
 I had to remove Muxlicer and Mex for now, as they were generating errors when trying to build for v2.
