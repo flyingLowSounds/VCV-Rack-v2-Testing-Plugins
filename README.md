@@ -4,6 +4,10 @@ Mac builds of VCV Rack v2 plugins
 Here are the macOS builds for some plugins compatible with the new version (v2) of VCV Rack CE.
 These have all been built against VCV Rack Community Edition 2.git.b04e4117
 
+## Note
+
+These plugins are unfinalized, unofficial builds intended for testing only. They are "bleeding edge". No guarantees as to stability, etc. If you encounter any issues, please let the developer know via GH issues.
+
 ## How
 
 Download the .vcvplugin file you want to try out. Drop it into the /Documents/Rack2/plugins folder and then open VCV Rack CE v2.
