@@ -9,6 +9,16 @@ These have all been built against VCV Rack Community Edition 2.git.b04e4117
 Download the .vcvplugin file you want to try out. Drop it into the /Documents/Rack2/plugins folder and then open VCV Rack CE v2.
 You should see the modules in your modules browser.
 
+## Contributed by [Steve](https://community.vcvrack.com/u/steve)
+Thanks, Steve!
+
+[Bidoo](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/Bidoo-2.0.0-mac.vcvplugin)  
+[Count Modula](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/CountModula-2.0.0-mac.vcvplugin)  
+[MindMeldModular](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/MindMeldModular-2.0.0-mac.vcvplugin)  
+[Ohmer](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/Ohmer-2.0.0-mac.vcvplugin)  
+[RareBreeds Orbits](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/RareBreeds_Orbits-2.0.0-mac.vcvplugin)  
+[Squinky Labs](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/squinkylabs-plug1-2.0.1-mac.vcvplugin)  
+
 ## 21kHz
 This is [netboy3's v1 update of jakehuryn's plugin](https://github.com/netboy3/21kHz-rack-plugins) which includes the venerable Palm Loop oscillator!
 
