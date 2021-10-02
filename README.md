@@ -22,28 +22,29 @@ You should see the modules in your modules browser.
 
 Thanks, Steve and Wouter!  
 
-## Files
+## Files for 2.git.b04e4117
+These files are for the public beta of 25 Sept 2021.
 
 ||
 |---|
-|[21kHz](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/21kHz-2.0.0-mac.vcvplugin)|
-|[Befaco](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/Befaco-2.0.0-mac.vcvplugin)|
-|[Bidoo](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/Bidoo-2.0.0-mac.vcvplugin)|
-|[Circlefade](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/Circlefade-2.0.0-mac.vcvplugin)|
-|[Count Modula](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/CountModula-2.0.0-mac.vcvplugin)|
-|[Geodesics](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/Geodesics-2.0.0-mac.vcvplugin)|
-|[Grande Modular](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/GrandeModular-2.0.0-mac.vcvplugin)|
-|[HetrickCV](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/HetrickCV-2.0.0-mac.vcvplugin)|
-|[IggyLabs](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/IggyLabsModules-2.0.0-mac.vcvplugin)|
-|[Impromptu](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/ImpromptuModular-2.0.0-mac.vcvplugin)|
-|[MindMeldModular](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/MindMeldModular-2.0.0-mac.vcvplugin)|
-|[Nonlinear Circuits](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/NonlinearCircuits-2.0.0-mac.vcvplugin)|
-|[Ohmer](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/Ohmer-2.0.0-mac.vcvplugin)|
-|[RareBreeds Orbits](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/RareBreeds_Orbits-2.0.0-mac.vcvplugin)|
-|[Southpole](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/Southpole-2.0.0-mac.vcvplugin)|
-|[Southpole Parasites firmware](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/Southpole-parasites-2.0.0-mac.vcvplugin)|
-|[Squinky Labs](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/squinkylabs-plug1-2.0.1-mac.vcvplugin)|
-|[Stoermelder-PackOne](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/Stoermelder-P1-2.0.0-mac.vcvplugin)|
+|[21kHz](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/2.git.b04e4117/21kHz-2.0.0-mac.vcvplugin)|
+|[Befaco](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/2.git.b04e4117/Befaco-2.0.0-mac.vcvplugin)|
+|[Bidoo](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/2.git.b04e4117/Bidoo-2.0.0-mac.vcvplugin)|
+|[Circlefade](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/2.git.b04e4117/Circlefade-2.0.0-mac.vcvplugin)|
+|[Count Modula](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/2.git.b04e4117/CountModula-2.0.0-mac.vcvplugin)|
+|[Geodesics](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/2.git.b04e4117/Geodesics-2.0.0-mac.vcvplugin)|
+|[Grande Modular](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/2.git.b04e4117/GrandeModular-2.0.0-mac.vcvplugin)|
+|[HetrickCV](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/2.git.b04e4117/HetrickCV-2.0.0-mac.vcvplugin)|
+|[IggyLabs](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/2.git.b04e4117/IggyLabsModules-2.0.0-mac.vcvplugin)|
+|[Impromptu](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/2.git.b04e4117/ImpromptuModular-2.0.0-mac.vcvplugin)|
+|[MindMeldModular](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/2.git.b04e4117/MindMeldModular-2.0.0-mac.vcvplugin)|
+|[Nonlinear Circuits](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/2.git.b04e4117/NonlinearCircuits-2.0.0-mac.vcvplugin)|
+|[Ohmer](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/2.git.b04e4117/Ohmer-2.0.0-mac.vcvplugin)|
+|[RareBreeds Orbits](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/2.git.b04e4117/RareBreeds_Orbits-2.0.0-mac.vcvplugin)|
+|[Southpole](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/2.git.b04e4117/Southpole-2.0.0-mac.vcvplugin)|
+|[Southpole Parasites firmware](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/2.git.b04e4117/Southpole-parasites-2.0.0-mac.vcvplugin)|
+|[Squinky Labs](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/2.git.b04e4117/squinkylabs-plug1-2.0.1-mac.vcvplugin)|
+|[Stoermelder-PackOne](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/2.git.b04e4117/Stoermelder-P1-2.0.0-mac.vcvplugin)|
 
 ## Comments
 ### 21kHz
