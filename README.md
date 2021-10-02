@@ -55,7 +55,7 @@ I had to remove Muxlicer and Mex for now, as they were generating errors when tr
 Just five modules from [max-circlefade](https://github.com/max-circlefade/Circlefade), but they are nice ones.
 
 ### Southpole
-This is [SteveRussell33's](https://github.com/SteveRussell33) [v1 update](https://github.com/SteveRussell33/southpole-vcvrack) of [gbrandt1's](https://github.com/gbrandt1/southpole-vcvrack) Southpole plugin which is a reskin (and resize) of Audible Instruments clones of Mutable Instruments. Plus Southpole adds several really cool new modules like a Euclidean sequencer, sample and hold x4, etc.
+This is a v2 update of [gbrandt1's](https://github.com/gbrandt1/southpole-vcvrack) Southpole plugin which is a reskin (and resize) of Audible Instruments clones of Mutable Instruments. Plus Southpole adds several really cool new modules like a Euclidean sequencer, sample and hold x4, etc.
 
 ### Southpole-Parasites
 This is [netboy3's](https://github.com/netboy3) [v1 update](https://github.com/netboy3/southpole-vcvrack-plugins/tree/v1-parasites) of two Southpole versions of Audible's clones of Mutable Instruments modules with the third party Parasites firmware. Very cool.
