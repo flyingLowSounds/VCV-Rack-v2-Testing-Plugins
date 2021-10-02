@@ -29,8 +29,10 @@ Thanks, Steve and Wouter!
 |[Bidoo](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/Bidoo-2.0.0-mac.vcvplugin)|
 |[Circlefade](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/Circlefade-2.0.0-mac.vcvplugin)|
 |[Count Modula](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/CountModula-2.0.0-mac.vcvplugin)|
+|[Geodesics](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/Geodesics-2.0.0-mac.vcvplugin)|
 |[Grande Modular](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/GrandeModular-2.0.0-mac.vcvplugin)|
 |[HetrickCV](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/HetrickCV-2.0.0-mac.vcvplugin)|
+|[Impromptu](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/ImpromptuModular-2.0.0-mac.vcvplugin)|
 |[MindMeldModular](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/MindMeldModular-2.0.0-mac.vcvplugin)|
 |[Nonlinear Circuits](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/NonlinearCircuits-2.0.0-mac.vcvplugin)|
 |[Ohmer](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/Ohmer-2.0.0-mac.vcvplugin)|
