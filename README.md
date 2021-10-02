@@ -38,7 +38,7 @@ Thanks, Steve and Wouter!
 |[Nonlinear Circuits](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/NonlinearCircuits-2.0.0-mac.vcvplugin)|
 |[Ohmer](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/Ohmer-2.0.0-mac.vcvplugin)|
 |[RareBreeds Orbits](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/RareBreeds_Orbits-2.0.0-mac.vcvplugin)|
-|[Southpole](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/southpole-2.0.0-mac.vcvplugin)|
+|[Southpole](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/Southpole-2.0.0-mac.vcvplugin)|
 |[Southpole Parasites firmware](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/Southpole-parasites-2.0.0-mac.vcvplugin)|
 |[Squinky Labs](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/squinkylabs-plug1-2.0.1-mac.vcvplugin)|
 |[Stoermelder-PackOne](https://github.com/flyingLowSounds/VCV-Rack-v2-Testing-Plugins/blob/main/Stoermelder-P1-2.0.0-mac.vcvplugin)|
