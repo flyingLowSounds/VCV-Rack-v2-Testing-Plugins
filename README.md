@@ -51,7 +51,9 @@ This is [netboy3's v1 update of jakehuryn's plugin](https://github.com/netboy3/2
 
 ### Befaco
 This is [hemmer's](https://github.com/hemmer) [dev branch](https://github.com/hemmer/Befaco) of the Befaco plugin including some cool new additions (like Morphader!).
-I had to remove Muxlicer and Mex for now, as they were generating errors when trying to build for v2.
+
+Note:
+For 2.git.b04e4117, I had to remove Muxlicer and Mex for now, as they were generating errors when trying to build for v2. All subsequent builds are from hemmer's v2 update and include Muxlicer and Mex!!!
 
 ### Circlefade
 Just five modules from [max-circlefade](https://github.com/max-circlefade/Circlefade), but they are nice ones.
