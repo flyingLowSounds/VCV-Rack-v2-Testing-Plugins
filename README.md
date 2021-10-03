@@ -23,7 +23,7 @@ You should see the modules in your modules browser.
 Thanks, Steve and Wouter!  
 
 ## Files for 2.git.042a9ce0
-These files are for the public beta of 02 Oct 2021
+These files are for the [public beta of 02 Oct 2021](https://vcvrack.com/downloads/Rack-2.git.042a9ce0-mac.zip)
 
 ||||||
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ These files are for the public beta of 02 Oct 2021
 |[]()|[]()|[]()|[]()|
 
 ## Files for 2.git.b04e4117
-These files are for the public beta of 25 Sept 2021.
+These files are for the [public beta of 25 Sept 2021](https://vcvrack.com/downloads/Rack-2.git.b04e4117-mac.zip)
 
 |||||
 |---|---|---|---|
